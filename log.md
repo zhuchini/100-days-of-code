@@ -23,8 +23,6 @@
 
 ### Day 2: June 9
 
-**Today's Progress**:
+**Today's Progress**: Implemented an alert feature from Bootstrap and made some final touches to the navbar.
 
-**Thoughts**:
-
-**Link(s) to work**:
+**Thoughts**: I encountered so many errors by playing with the link_to and classes just to get a specific visual with Bootstrap.
