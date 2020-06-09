@@ -19,3 +19,12 @@
 **Thoughts**: Currently following instructions in creating an articles website, but my theme will be about dogs instead of lifestyle.
 
 **Link(s) to work**: [Lifestyle Articles](https://www.notion.so/Lifestyle-articles-b82a5f10122b4cec924cd5d4a6cf7561)
+
+
+### Day 2: June 9
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
