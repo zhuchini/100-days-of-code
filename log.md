@@ -26,3 +26,9 @@
 **Today's Progress**: Implemented an alert feature from Bootstrap and made some final touches to the navbar.
 
 **Thoughts**: I encountered so many errors by playing with the link_to and classes just to get a specific visual with Bootstrap.
+
+### Day 2: June 10
+
+**Today's Progress**: Googled how to implement card elements for the homepage.
+
+**Thoughts**: I was not feeling the best today and was only able to take the most voted article to feature on the homepage.
