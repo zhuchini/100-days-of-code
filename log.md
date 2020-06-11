@@ -35,7 +35,7 @@
 **Thoughts**: I was not feeling the best today and was only able to take the most voted article to feature on the homepage.
 
 
-### Day 2: June 9
+### Day 4: June 11
 
 **Today's Progress**: Navbar fully functional and tried to implement image overlay cards on homepage.
 
