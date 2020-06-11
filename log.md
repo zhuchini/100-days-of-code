@@ -27,8 +27,16 @@
 
 **Thoughts**: I encountered so many errors by playing with the link_to and classes just to get a specific visual with Bootstrap.
 
-### Day 2: June 10
+
+### Day 3: June 10
 
 **Today's Progress**: Googled how to implement card elements for the homepage.
 
 **Thoughts**: I was not feeling the best today and was only able to take the most voted article to feature on the homepage.
+
+
+### Day 2: June 9
+
+**Today's Progress**: Navbar fully functional and tried to implement image overlay cards on homepage.
+
+**Thoughts**: I copied the code from Bootstrap and the image would not show up. I tried writing in different ways, and still no success. It's possible is because of the image.
