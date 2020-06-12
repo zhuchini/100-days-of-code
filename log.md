@@ -40,3 +40,10 @@
 **Today's Progress**: Navbar fully functional and tried to implement image overlay cards on homepage.
 
 **Thoughts**: I copied the code from Bootstrap and the image would not show up. I tried writing in different ways, and still no success. It's possible is because of the image.
+
+
+### Day 5: June 12
+
+**Today's Progress**: Learned about SCSS in more detail.
+
+**Thoughts**: Organized my SCSS stylesheet files and read a few articles on SCSS.
