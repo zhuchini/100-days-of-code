@@ -47,3 +47,10 @@
 **Today's Progress**: Learned about SCSS in more detail.
 
 **Thoughts**: Organized my SCSS stylesheet files and read a few articles on SCSS.
+
+
+### Day 6: June 14
+
+**Today's Progress**: Instead of working on my little article project, I went through the Javascript ES6 Challenges on FreeCodeCamp.
+
+**Thoughts**: It's a little bit difficult for me to understand recursion.
