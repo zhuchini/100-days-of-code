@@ -54,3 +54,10 @@
 **Today's Progress**: Instead of working on my little article project, I went through the Javascript ES6 Challenges on FreeCodeCamp.
 
 **Thoughts**: It's a little bit difficult for me to understand recursion.
+
+
+### Day 7: June 15
+
+**Today's Progress**: Continued with ES6 Challenges from FreeCodeCamp
+
+**Thoughts**: My motivation today was very low and I did the bare minimum. I do not like Destructuring Assignment because I think I'm used to Ruby and it's much easier.
