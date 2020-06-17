@@ -61,3 +61,10 @@
 **Today's Progress**: Continued with ES6 Challenges from FreeCodeCamp
 
 **Thoughts**: My motivation today was very low and I did the bare minimum. I do not like Destructuring Assignment because I think I'm used to Ruby and it's much easier.
+
+
+### Day 8: June 16
+
+**Today's Progress**: Currently at 50% of the ES6 Challenges from FreeCodeCamp.
+
+**Thoughts**: I had to go back and check the JavaScript Curriculum on how to iterate. I am too familiar with Ruby itirations.
