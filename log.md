@@ -68,3 +68,10 @@
 **Today's Progress**: Currently at 50% of the ES6 Challenges from FreeCodeCamp.
 
 **Thoughts**: I had to go back and check the JavaScript Curriculum on how to iterate. I am too familiar with Ruby itirations.
+
+
+### Day 9: June 17
+
+**Today's Progress**: Completed ES6, Regular Expressions, and Debugging from the JavaScript section on FreeCodeCamp.
+
+**Thoughts**: I followed the Pomodoro timer, and I had a productive day.
