@@ -75,3 +75,11 @@
 **Today's Progress**: Completed ES6, Regular Expressions, and Debugging from the JavaScript section on FreeCodeCamp.
 
 **Thoughts**: I followed the Pomodoro timer, and I had a productive day.
+
+
+### Day 10: June 18
+
+**Today's Progress**: Completed Basic Data Structures from the JavaScript section of FreeCodeCamp. 
+
+**Thoughts**: I hate multi-dimensional arrays, it confuses my eyes. The challenges were fairly easy, and I need more practice in writing functions.
+
