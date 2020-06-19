@@ -83,3 +83,11 @@
 
 **Thoughts**: I hate multi-dimensional arrays, it confuses my eyes. The challenges were fairly easy, and I need more practice in writing functions.
 
+
+### Day 11: June 19
+
+**Today's Progress**: Completed Basic Algorithm Scripting from FreeCodeCamp. 
+
+**Thoughts**: I found it quite difficult and definitely need more practice.
+
+
