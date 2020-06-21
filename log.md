@@ -91,3 +91,10 @@
 **Thoughts**: I found it quite difficult and definitely need more practice.
 
 
+### Day 12: June 21
+
+**Today's Progress**: Completed Object Oriented Programming from FreeCodeCamp. 
+
+**Thoughts**: It was quite fun because I had an easier time understanding the concept. Looking forward to more!
+
+
