@@ -98,3 +98,8 @@
 **Thoughts**: It was quite fun because I had an easier time understanding the concept. Looking forward to more!
 
 
+### Day 13: June 22
+
+**Today's Progress**: Completed Functional Programming
+
+**Thoughts**: It helped me refresh on methods and writing functions. It was nice practice.
