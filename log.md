@@ -103,3 +103,10 @@
 **Today's Progress**: Completed Functional Programming
 
 **Thoughts**: It helped me refresh on methods and writing functions. It was nice practice.
+
+
+### Day 14: June 23
+
+**Today's Progress**: I Took a break from FreeCodeCamp and worked on my article website. 
+
+**Thoughts**: Bootstrap can only provide so much. I felt limited in terms of design and I'm going to use my own classes and divs from now on.
