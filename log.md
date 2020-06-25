@@ -110,3 +110,10 @@
 **Today's Progress**: I Took a break from FreeCodeCamp and worked on my article website. 
 
 **Thoughts**: Bootstrap can only provide so much. I felt limited in terms of design and I'm going to use my own classes and divs from now on.
+
+
+### Day 15: June 24
+
+**Today's Progress**: I worked a little bit on Intermediate Algorithm Scripting from FreeCodeCamp because it was a holiday.
+
+**Thoughts**: I found it very hard and had to google the solution for every challenge. I need more practice and read more resources.
