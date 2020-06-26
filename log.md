@@ -124,3 +124,10 @@
 **Today's Progress**: Got to work a little more on Intermediate Algorithm Scripting. Currently at 71%.
 
 **Thoughts**: I couldn't stop myself from googling the answer, and feel guilty about it. Not sure if this is the right way of learning.
+
+
+### Day 17: June 26
+
+**Today's Progress**: Completed Intermediate Algorithm Scripting early in the morning.
+
+**Thoughts**: I will review and re-do the challenges if possible this weekend.
