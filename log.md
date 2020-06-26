@@ -117,3 +117,10 @@
 **Today's Progress**: I worked a little bit on Intermediate Algorithm Scripting from FreeCodeCamp because it was a holiday.
 
 **Thoughts**: I found it very hard and had to google the solution for every challenge. I need more practice and read more resources.
+
+
+### Day 16: June 25
+
+**Today's Progress**: Got to work a little more on Intermediate Algorithm Scripting. Currently at 71%.
+
+**Thoughts**: I couldn't stop myself from googling the answer, and feel guilty about it. Not sure if this is the right way of learning.
