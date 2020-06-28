@@ -131,3 +131,10 @@
 **Today's Progress**: Completed Intermediate Algorithm Scripting early in the morning.
 
 **Thoughts**: I will review and re-do the challenges if possible this weekend.
+
+
+### Day 18: June 27
+
+**Today's Progress**: Completed JavaScript Algorithms and Data Structures from FreeCodeCamp!
+
+**Thoughts**: I feel accomplished, but I need to go back re-do the challenges because they were the hardest I've ever done.
