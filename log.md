@@ -137,4 +137,4 @@
 
 **Today's Progress**: Completed JavaScript Algorithms and Data Structures from FreeCodeCamp!
 
-**Thoughts**: I feel accomplished, but I need to go back re-do the challenges because they were the hardest I've ever done.
+**Thoughts**: I feel accomplished, but I need to go back and re-do the challenges because they were the hardest I've ever done.
