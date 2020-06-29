@@ -138,3 +138,10 @@
 **Today's Progress**: Completed JavaScript Algorithms and Data Structures from FreeCodeCamp!
 
 **Thoughts**: I feel accomplished, but I need to go back and re-do the challenges because they were the hardest I've ever done.
+
+
+### Day 19: June 29
+
+**Today's Progress**: Started following the #100DaysOfCode Front-End Development repo and started learning about jQuery on FreeCodeCamp. Finished Bootstrap and jQuery section.
+
+**Thoughts**: I'm curious about what jQuery can do!
