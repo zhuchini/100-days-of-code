@@ -145,3 +145,11 @@
 **Today's Progress**: Started following the #100DaysOfCode Front-End Development repo and started learning about jQuery on FreeCodeCamp. Finished Bootstrap and jQuery section.
 
 **Thoughts**: I'm curious about what jQuery can do!
+
+
+### Day 20: June 30
+
+**Today's Progress**: Learned about web accessibility.
+
+**Thoughts**: I never thought that creating accessible web applications was so important. Everybody should have equal access to information and functionality!
+
