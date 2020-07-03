@@ -153,3 +153,10 @@
 
 **Thoughts**: I never thought that creating accessible web applications was so important. Everybody should have equal access to information and functionality!
 
+
+### Day 21: July 2, 2020
+
+**Today's Progress**: Learned about Node.js and npm.
+
+**Thoughts**: The packages are very similar to gems from Ruby on Rails.
+
