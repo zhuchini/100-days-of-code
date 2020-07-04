@@ -160,3 +160,10 @@
 
 **Thoughts**: The packages are very similar to gems from Ruby on Rails.
 
+
+
+### Day 22: July 3
+
+**Today's Progress**: Learned a little bit more about Sass by going through the exercises on FreeCodeCamp.
+
+**Thoughts**: There is so much to it that I didn't know about.
