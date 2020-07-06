@@ -167,3 +167,10 @@
 **Today's Progress**: Learned a little bit more about Sass by going through the exercises on FreeCodeCamp.
 
 **Thoughts**: There is so much to it that I didn't know about.
+
+
+### Day 23: July 6
+
+**Today's Progress**: Learned and implemented BEM and Gulp to my dog article project.
+
+**Thoughts**: I find it really interesting and an efficient way of working.
