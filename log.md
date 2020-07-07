@@ -174,3 +174,10 @@
 **Today's Progress**: Learned and implemented BEM and Gulp to my dog article project.
 
 **Thoughts**: I find it really interesting and an efficient way of working.
+
+
+### Day 24: July 7
+
+**Today's Progress**: Learned about webpack.
+
+**Thoughts**: I'm a little bit confused, but I'll get the hang of it.
