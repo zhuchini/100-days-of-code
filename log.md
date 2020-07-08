@@ -181,3 +181,11 @@
 **Today's Progress**: Learned about webpack.
 
 **Thoughts**: I'm a little bit confused, but I'll get the hang of it.
+
+
+### Day 24: July 8
+
+**Today's Progress**: Configured webpack 4 following a tutorial.
+
+**Thoughts**: I have no idea what I just did!
+
