@@ -183,9 +183,16 @@
 **Thoughts**: I'm a little bit confused, but I'll get the hang of it.
 
 
-### Day 24: July 8
+### Day 25: July 8
 
 **Today's Progress**: Configured webpack 4 following a tutorial.
 
 **Thoughts**: I have no idea what I just did!
+
+
+### Day 26: July 9
+
+**Today's Progress**: Worked a little bit on a Tic Tac Toe game using React.
+
+**Thoughts**: Languages and frameworks have their similarities.
 
