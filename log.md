@@ -209,3 +209,11 @@
 **Today's Progress**: Completed the Tic Tac Toe game using React. Will have to continue a little bit more with tutorial.
 
 **Thoughts**: This framework is amazing!
+
+
+### Day 29: July 14
+
+**Today's Progress**: Finished Tic Tac Toe react tutorial. Started React section on FreeCodeCamp
+
+**Thoughts**: I'm still a little bit confused, therefore I went on with FCC.
+
