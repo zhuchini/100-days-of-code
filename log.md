@@ -196,3 +196,16 @@
 
 **Thoughts**: Languages and frameworks have their similarities.
 
+
+### Day 27: July 10
+
+**Today's Progress**: Still working on the Tic Tac Toe game using React.
+
+**Thoughts**: I have so much to learn!
+
+
+### Day 28: July 13
+
+**Today's Progress**: Completed the Tic Tac Toe game using React. Will have to continue a little bit more with tutorial.
+
+**Thoughts**: This framework is amazing!
