@@ -217,3 +217,9 @@
 
 **Thoughts**: I'm still a little bit confused, therefore I went on with FCC.
 
+
+### Day 30: July 15
+
+**Today's Progress**: Finished shopping list tutorial following a YouTube video.
+
+**Thoughts**: Discovered a Refactor option by right-clicking.
