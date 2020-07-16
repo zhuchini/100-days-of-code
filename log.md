@@ -58,7 +58,7 @@
 
 ### Day 7: June 15
 
-**Today's Progress**: Continued with ES6 Challenges from FreeCodeCamp
+**Today's Progress**: Continued with ES6 Challenges from FreeCodeCamp.
 
 **Thoughts**: My motivation today was very low and I did the bare minimum. I do not like Destructuring Assignment because I think I'm used to Ruby and it's much easier.
 
@@ -100,7 +100,7 @@
 
 ### Day 13: June 22
 
-**Today's Progress**: Completed Functional Programming
+**Today's Progress**: Completed Functional Programming.
 
 **Thoughts**: It helped me refresh on methods and writing functions. It was nice practice.
 
@@ -213,7 +213,7 @@
 
 ### Day 29: July 14
 
-**Today's Progress**: Finished Tic Tac Toe react tutorial. Started React section on FreeCodeCamp
+**Today's Progress**: Finished Tic Tac Toe react tutorial. Started React section on FreeCodeCamp.
 
 **Thoughts**: I'm still a little bit confused, therefore I went on with FCC.
 
@@ -223,3 +223,10 @@
 **Today's Progress**: Finished shopping list tutorial following a YouTube video.
 
 **Thoughts**: Discovered a Refactor option by right-clicking.
+
+
+### Day 31: July 16
+
+**Today's Progress**: Finalized "shopping list" React tutorial and continued with FCC.
+
+**Thoughts**: I'm starting to get the hang of it.
