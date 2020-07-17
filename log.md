@@ -230,3 +230,10 @@
 **Today's Progress**: Finalized "shopping list" React tutorial and continued with FCC.
 
 **Thoughts**: I'm starting to get the hang of it.
+
+
+### Day 32: July 17
+
+**Today's Progress**: Continued with the React section on FreeCodeCamp.
+
+**Thoughts**: Everything is coming together and I understand now.
