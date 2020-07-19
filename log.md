@@ -237,3 +237,10 @@
 **Today's Progress**: Continued with the React section on FreeCodeCamp.
 
 **Thoughts**: Everything is coming together and I understand now.
+
+
+### Day 33: July 18
+
+**Today's Progress**: Completed 40% of React on FreeCodeCamp.
+
+**Thoughts**: It's nice to review things and understand it.
