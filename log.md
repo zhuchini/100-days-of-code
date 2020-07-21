@@ -244,3 +244,10 @@
 **Today's Progress**: Completed 40% of React on FreeCodeCamp.
 
 **Thoughts**: It's nice to review things and understand it.
+
+
+### Day 34: July 20
+
+**Today's Progress**: Continued React course on FreeCodeCamp and started looking for entry-level job positions.
+
+**Thoughts**: Today was not the best day to work. I was not feeling great.
