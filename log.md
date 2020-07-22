@@ -251,3 +251,10 @@
 **Today's Progress**: Continued React course on FreeCodeCamp and started looking for entry-level job positions.
 
 **Thoughts**: Today was not the best day to work. I was not feeling great.
+
+
+### Day 35 July 21
+
+**Today's Progress**: Worked on the React curriculum from FCC.
+
+**Thoughts**: I woke up at 4AM and I must say it is really great to get work done early in the morning.
