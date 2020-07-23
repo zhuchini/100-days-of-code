@@ -258,3 +258,10 @@
 **Today's Progress**: Worked on the React curriculum from FCC.
 
 **Thoughts**: I woke up at 4AM and I must say it is really great to get work done early in the morning.
+
+
+### Day 36 July 22
+
+**Today's Progress**: Completed React on FCC.
+
+**Thoughts**: I don't think FCC is meant for me. I don't learn by reading and most of the code is already done for me which I don't like.
