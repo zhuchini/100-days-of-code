@@ -265,3 +265,12 @@
 **Today's Progress**: Completed React on FCC.
 
 **Thoughts**: I don't think FCC is meant for me. I don't learn by reading and most of the code is already done for me which I don't like.
+
+
+### Day 37 July 23
+
+**Today's Progress**: Completed HTML and CSS of the Article Preview Component challenge from FrontEndMentor
+
+**Thoughts**: It was super fun making this and I will continue with it tomorrow.
+
+**Link(s) to work**: [Article Preview Component](https://article-preview-component-opal.vercel.app/)
