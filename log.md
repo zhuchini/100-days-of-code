@@ -274,3 +274,10 @@
 **Thoughts**: It was super fun making this and I will continue with it tomorrow.
 
 **Link(s) to work**: [Article Preview Component](https://article-preview-component-opal.vercel.app/)
+
+
+### Day 38 July 24
+
+**Today's Progress**: Applied JS to the challenge
+
+**Thoughts**: I learn to much just by doing.
