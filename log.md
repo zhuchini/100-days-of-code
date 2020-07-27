@@ -292,6 +292,8 @@
 
 ### Day 40 July 27
 
-**Today's Progress**: 
+**Today's Progress**: Completed my first Frontend Mentor challenge! 
 
-**Thoughts**: 
+**Thoughts**: I had a hard time working with the active state and I'm aware that it's not identical to the original one.
+
+**Link(s) to work**: [Article Preview Component](https://article-preview-component-opal.vercel.app/)
