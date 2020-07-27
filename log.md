@@ -281,3 +281,17 @@
 **Today's Progress**: Applied JS to the challenge
 
 **Thoughts**: I learn to much just by doing.
+
+
+### Day 39 July 26
+
+**Today's Progress**: Started working on the mobile design of the last challenge.
+
+**Thoughts**: I was always scared of working with media queries, but in order to grow I have to seek discomfort.
+
+
+### Day 40 July 27
+
+**Today's Progress**: 
+
+**Thoughts**: 
