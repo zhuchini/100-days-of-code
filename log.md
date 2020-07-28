@@ -297,3 +297,10 @@
 **Thoughts**: I had a hard time working with the active state and I'm aware that it's not identical to the original one.
 
 **Link(s) to work**: [Article Preview Component](https://article-preview-component-opal.vercel.app/)
+
+
+### Day 41 July 28
+
+**Today's Progress**: Completed the HTML skeleton for the "coming soon page" challenge from FrontEnd Mentor
+
+**Thoughts**: I really love the challenges provided, it gives me good practice.
