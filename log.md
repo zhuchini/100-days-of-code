@@ -304,3 +304,10 @@
 **Today's Progress**: Completed the HTML skeleton for the "coming soon page" challenge from FrontEnd Mentor
 
 **Thoughts**: I really love the challenges provided, it gives me good practice.
+
+
+### Day 42 July 29
+
+**Today's Progress**: Started learning how to make Discord Bots.
+
+**Thoughts**: Instead of working on yesterday's challenge, I got sidetracked.
