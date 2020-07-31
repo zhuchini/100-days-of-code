@@ -311,3 +311,10 @@
 **Today's Progress**: Started learning how to make Discord Bots.
 
 **Thoughts**: Instead of working on yesterday's challenge, I got sidetracked.
+
+
+### Day 43 July 31
+
+**Today's Progress**: Configured my mac to run the latest version of Python. Finally got the Discord bot to go online and run commands.
+
+**Thoughts**: I'm having a lot of fun making this.
