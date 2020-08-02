@@ -318,3 +318,10 @@
 **Today's Progress**: Configured my mac to run the latest version of Python. Finally got the Discord bot to go online and run commands.
 
 **Thoughts**: I'm having a lot of fun making this.
+
+
+### Day 44 August 1, 2020
+
+**Today's Progress**: Added more events and commands to the Pun Bot.
+
+**Thoughts**: More bugs came up and I started to give up.
