@@ -325,3 +325,17 @@
 **Today's Progress**: Added more events and commands to the Pun Bot.
 
 **Thoughts**: More bugs came up and I started to give up.
+
+
+### Day 45 August 3
+
+**Today's Progress**: Experimented with more commands with the bot.
+
+**Thoughts**: I solved a bug and it's the best feeling ever.
+
+
+### Day 46 August 4
+
+**Today's Progress**: Learned about cogs.
+
+**Thoughts**: I feel like I'm slowly getting the hang of coding.
