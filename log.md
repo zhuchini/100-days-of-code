@@ -339,3 +339,10 @@
 **Today's Progress**: Learned about cogs.
 
 **Thoughts**: I feel like I'm slowly getting the hang of coding.
+
+
+### Day 47 August 5
+
+**Today's Progress**: Finished making the Discord bot!
+
+**Thoughts**: It makes very bad jokes.
