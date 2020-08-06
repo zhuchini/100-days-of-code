@@ -346,3 +346,10 @@
 **Today's Progress**: Finished making the Discord bot!
 
 **Thoughts**: It makes very bad jokes.
+
+
+### Day 48 August 6
+
+**Today's Progress**: I tried to host my Discord bot to a virtual server on AWS, then tried to push it to Heroku with no success.
+
+**Thoughts**: I couldn't make anything work today.
