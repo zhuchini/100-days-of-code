@@ -353,3 +353,10 @@
 **Today's Progress**: I tried to host my Discord bot to a virtual server on AWS, then tried to push it to Heroku with no success.
 
 **Thoughts**: I couldn't make anything work today.
+
+
+### Day 49 August 11
+
+**Today's Progress**: Started looking into Redux.
+
+**Thoughts**: I'm still not sure what's going on.
