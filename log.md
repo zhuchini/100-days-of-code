@@ -360,3 +360,10 @@
 **Today's Progress**: Started looking into Redux.
 
 **Thoughts**: I'm still not sure what's going on.
+
+
+### Day 50 August 13
+
+**Today's Progress**: Started learning how to make a memory card game with Vue thanks to http://projectlearn.io
+
+**Thoughts**: What an amazing website.
