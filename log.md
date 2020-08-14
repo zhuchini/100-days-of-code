@@ -367,3 +367,11 @@
 **Today's Progress**: Started learning how to make a memory card game with Vue thanks to http://projectlearn.io
 
 **Thoughts**: What an amazing website.
+
+
+### Day 51 August 14
+
+**Today's Progress**: Semi-good progress with the memory card game.
+
+**Thoughts**: I feel like I should stick with one framework instead of switching all the time.
+
