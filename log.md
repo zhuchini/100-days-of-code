@@ -375,3 +375,9 @@
 
 **Thoughts**: I feel like I should stick with one framework instead of switching all the time.
 
+
+### Day 52 August 15
+
+**Today's Progress**: Stuck again with images not showing on my memory card game.
+
+**Thoughts**: This issue keeps occuring on my projects...
