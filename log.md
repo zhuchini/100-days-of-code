@@ -381,3 +381,10 @@
 **Today's Progress**: Stuck again with images not showing on my memory card game.
 
 **Thoughts**: This issue keeps occuring on my projects...
+
+
+### Day 53 August 24
+
+**Today's Progress**: Continued with the "Coming Soon" page from Frontend Mentor challenges.
+
+**Thoughts**: I took a one week break and I feel better now.
