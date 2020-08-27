@@ -388,3 +388,10 @@
 **Today's Progress**: Continued with the "Coming Soon" page from Frontend Mentor challenges.
 
 **Thoughts**: I took a one week break and I feel better now.
+
+
+### Day 54 August 26
+
+**Today's Progress**: Tried to make a custom error message for an email submit form.
+
+**Thoughts**: Something so small gave me a headache.
