@@ -395,3 +395,10 @@
 **Today's Progress**: Tried to make a custom error message for an email submit form.
 
 **Thoughts**: Something so small gave me a headache.
+
+
+### Day 55 August 31
+
+**Today's Progress**: Went back to JavaScript to get more practice.
+
+**Thoughts**: I really need to practice more to find jobs.
