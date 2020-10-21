@@ -14,18 +14,16 @@
 
 ### Day 1: October 19th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started working on my portfolio.
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Thoughts**: I wouldn't have done it without the help of Frontend Mentor.
 
 
-### Day 2: 
+### Day 2: October 20th
 
-**Today's Progress**: 
+**Today's Progress**: Continued with portfolio.
 
-**Thoughts**: 
+**Thoughts**: Slowly progressing.
 
 
 
