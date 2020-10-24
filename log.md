@@ -26,4 +26,22 @@
 **Thoughts**: Slowly progressing.
 
 
+### Day 3: October 21st
 
+**Today's Progress**: Completed the navbar of my portfolio.
+
+**Thoughts**: I need to work more efficiently.
+
+
+### Day 4: October 22nd
+
+**Today's Progress**: Completed most of the things on the main page of my portfolio. Just need to finish the footer!
+
+**Thoughts**: It's going to take me weeks for me to finish this portfolio.
+
+
+### Day 5: 
+
+**Today's Progress**: 
+
+**Thoughts**: Slowly progressing.
