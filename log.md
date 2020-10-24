@@ -44,4 +44,4 @@
 
 **Today's Progress**: 
 
-**Thoughts**: Slowly progressing.
+**Thoughts**: 
