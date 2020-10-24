@@ -40,8 +40,8 @@
 **Thoughts**: It's going to take me weeks for me to finish this portfolio.
 
 
-### Day 5: 
+### Day 5: October 24th
 
-**Today's Progress**: 
+**Today's Progress**: Completed the homepage of the portfolio.
 
-**Thoughts**: 
+**Thoughts**: Front-End Development can be problem solving also.
