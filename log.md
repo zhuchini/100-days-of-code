@@ -45,3 +45,38 @@
 **Today's Progress**: Completed the homepage of the portfolio.
 
 **Thoughts**: Front-End Development can be problem solving also.
+
+
+### Day 6: October 26th
+
+**Today's Progress**: Worked on the buttons of the portfolio.
+
+**Thoughts**: Couldn't really work today.
+
+
+### Day 7: October 27th
+
+**Today's Progress**: Changed color of active-page on navbar links.
+
+**Thoughts**: I have to stop making things complicated for nothing.
+
+
+### Day 8: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 9: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 10: 
+
+**Today's Progress**: 
+
+**Thoughts**:
