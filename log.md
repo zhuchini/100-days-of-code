@@ -63,9 +63,9 @@
 
 ### Day 8: 
 
-**Today's Progress**: 
+**Today's Progress**: Completed the portfolio project page.
 
-**Thoughts**: 
+**Thoughts**: Did not expect to finish it in one day.
 
 
 ### Day 9: 
