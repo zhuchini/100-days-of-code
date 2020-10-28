@@ -61,7 +61,7 @@
 **Thoughts**: I have to stop making things complicated for nothing.
 
 
-### Day 8: 
+### Day 8: October 28th
 
 **Today's Progress**: Completed the portfolio project page.
 
