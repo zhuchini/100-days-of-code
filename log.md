@@ -68,14 +68,49 @@
 **Thoughts**: Did not expect to finish it in one day.
 
 
-### Day 9: 
+### Day 9: October 29th
+
+**Today's Progress**: Completed the portfolio page.
+
+**Thoughts**: I recycled the previous HTML skeleton from other pages. Pretty efficient.
+
+
+### Day 10: 
 
 **Today's Progress**: 
 
 **Thoughts**:
 
 
-### Day 10: 
+### Day 11: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 12: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 13: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 14: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 15: 
 
 **Today's Progress**: 
 
