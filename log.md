@@ -75,11 +75,11 @@
 **Thoughts**: I recycled the previous HTML skeleton from other pages. Pretty efficient.
 
 
-### Day 10: 
+### Day 10: November 2nd, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Completed additional pages to showcase different projects.
 
-**Thoughts**:
+**Thoughts**: Recycling HTML pages is fun.
 
 
 ### Day 11: 
