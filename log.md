@@ -86,7 +86,7 @@
 
 **Today's Progress**: Continued work on portfolio.
 
-**Thoughts**: I'm not excited to work on respondive design.
+**Thoughts**: I'm not excited to work on responsive design.
 
 
 ### Day 12: 
