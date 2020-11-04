@@ -82,11 +82,11 @@
 **Thoughts**: Recycling HTML pages is fun.
 
 
-### Day 11: 
+### Day 11: November 3rd
 
-**Today's Progress**: 
+**Today's Progress**: Continued work on portfolio.
 
-**Thoughts**:
+**Thoughts**: I'm not excited to work on respondive design.
 
 
 ### Day 12: 
