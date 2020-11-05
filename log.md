@@ -89,11 +89,11 @@
 **Thoughts**: I'm not excited to work on responsive design.
 
 
-### Day 12: 
+### Day 12: November 4th
 
-**Today's Progress**: 
+**Today's Progress**: Made some final styling changes and completed the Contact Me page from the portfolio challenge on Frontend Mentor.
 
-**Thoughts**:
+**Thoughts**: I need to stop thinking to make everything perfect, and just go for it.
 
 
 ### Day 13: 
