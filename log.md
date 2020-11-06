@@ -96,11 +96,11 @@
 **Thoughts**: I need to stop thinking to make everything perfect, and just go for it.
 
 
-### Day 13: 
+### Day 13: November 5th
 
-**Today's Progress**: 
+**Today's Progress**: Portfolio desktop version complete.
 
-**Thoughts**:
+**Thoughts**: Still need to change some hovering action on some buttons and icons.
 
 
 ### Day 14: 
