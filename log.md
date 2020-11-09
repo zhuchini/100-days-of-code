@@ -103,7 +103,7 @@
 **Thoughts**: Still need to change some hovering action on some buttons and icons.
 
 
-### Day 14: 
+### Day 14: November 6th
 
 **Today's Progress**: Made additional small detail changes of the portfolio challenge.
 
