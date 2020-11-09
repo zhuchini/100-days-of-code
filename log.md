@@ -105,12 +105,47 @@
 
 ### Day 14: 
 
+**Today's Progress**: Made additional small detail changes of the portfolio challenge.
+
+**Thoughts**: Now I'm looking forward to responsive design.
+
+
+### Day 15: 
+
 **Today's Progress**: 
 
 **Thoughts**:
 
 
-### Day 15: 
+### Day 16: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 17: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 18: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 19: 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 20: 
 
 **Today's Progress**: 
 
