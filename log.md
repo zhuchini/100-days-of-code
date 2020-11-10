@@ -110,11 +110,11 @@
 **Thoughts**: Now I'm looking forward to responsive design.
 
 
-### Day 15: 
+### Day 15: November 9th
 
-**Today's Progress**: 
+**Today's Progress**: Discovering different ways of showing error validations on forms.
 
-**Thoughts**:
+**Thoughts**: I think working in the morning will be better.
 
 
 ### Day 16: 
