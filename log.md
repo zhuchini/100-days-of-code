@@ -117,11 +117,11 @@
 **Thoughts**: I think working in the morning will be better.
 
 
-### Day 16: 
+### Day 16: November 10th
 
-**Today's Progress**: 
+**Today's Progress**: Went through JavaScript Fundamentals on Udemy by Jonas Schmedtmann and did some practice challenges.
 
-**Thoughts**:
+**Thoughts**: I work well with a partner.
 
 
 ### Day 17: 
