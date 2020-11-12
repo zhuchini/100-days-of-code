@@ -124,14 +124,14 @@
 **Thoughts**: I work well with a partner.
 
 
-### Day 17: 
+### Day 17: November 11th
 
-**Today's Progress**: 
+**Today's Progress**: Practiced doing JavaScript coding challenges on Udemy.
 
-**Thoughts**:
+**Thoughts**: It's not as hard as I thought.
 
 
-### Day 18: 
+### Day 18: November 12th
 
 **Today's Progress**: 
 
