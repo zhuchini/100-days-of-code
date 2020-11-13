@@ -133,16 +133,16 @@
 
 ### Day 18: November 12th
 
-**Today's Progress**: 
+**Today's Progress**: Completed more challenges on Udemy.
 
-**Thoughts**:
+**Thoughts**: I could only work with a buddy.
 
 
-### Day 19: 
+### Day 19: November 13th
 
-**Today's Progress**: 
+**Today's Progress**: More challenges!
 
-**Thoughts**:
+**Thoughts**: JavaScript is pretty fun.
 
 
 ### Day 20: 
