@@ -145,8 +145,78 @@
 **Thoughts**: JavaScript is pretty fun.
 
 
-### Day 20: 
+### Day 20: November 16th
+
+**Today's Progress**: Even more challenges!
+
+**Thoughts**: Challenges are fun.
+
+
+### Day 21: November 17th
+
+**Today's Progress**: Three hours of lectures, two hours of portfolio work and one hour of job search.
+
+**Thoughts**: Pretty productive day.
+
+
+### Day 22: November 18th
 
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
+
+
+### Day 23: November 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 24: November 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 25: November 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 26:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 27:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 28:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 29:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 30:
+
+**Today's Progress**: 
+
+**Thoughts**: 
