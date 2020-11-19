@@ -166,11 +166,11 @@
 **Thoughts**: Made little progress.
 
 
-### Day 23: November 
+### Day 23: November 19th
 
-**Today's Progress**: 
+**Today's Progress**: Working on more challenges of the JavaScript course on Udemy.
 
-**Thoughts**: 
+**Thoughts**: Brain stimulation is nice.
 
 
 ### Day 24: November 
