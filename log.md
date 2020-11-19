@@ -161,9 +161,9 @@
 
 ### Day 22: November 18th
 
-**Today's Progress**: 
+**Today's Progress**: Working on challenge #4 of the JavaScript course on Udemy.
 
-**Thoughts**: 
+**Thoughts**: Made little progress.
 
 
 ### Day 23: November 
