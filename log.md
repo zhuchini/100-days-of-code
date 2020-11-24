@@ -173,49 +173,49 @@
 **Thoughts**: Brain stimulation is nice.
 
 
-### Day 24: November 
+### Day 24: November 20th
+
+**Today's Progress**: Went through the JavaScript course on Udemy.
+
+**Thoughts**: Less motivation to work today.
+
+
+### Day 25: November 23rd
+
+**Today's Progress**: Continued with JS course on Udemy and worked on challenges.
+
+**Thoughts**: I need to remember to post on Twitter.
+
+
+### Day 26: November 24th
+
+**Today's Progress**: Learned about Debugger on Udemy course.
+
+**Thoughts**: I need to remember that it's okay to not understand everything. Just learn by doing.
+
+
+### Day 27: November 25th
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 
-### Day 25: November 
+### Day 28: November 26th
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 
-### Day 26:
+### Day 29: November 27th
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
 
-### Day 27:
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-
-### Day 28:
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-
-### Day 29:
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-
-### Day 30:
+### Day 30: November
 
 **Today's Progress**: 
 
