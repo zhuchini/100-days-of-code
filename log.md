@@ -196,19 +196,19 @@
 
 ### Day 27: November 25th
 
+**Today's Progress**: Did more challenges and returned to old challenges to refresh my memory.
+
+**Thoughts**: Challenges are pretty fun.
+
+
+### Day 28: November
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
 
-### Day 28: November 26th
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-
-### Day 29: November 27th
+### Day 29: November
 
 **Today's Progress**: 
 
