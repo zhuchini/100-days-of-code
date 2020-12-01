@@ -201,14 +201,14 @@
 **Thoughts**: Challenges are pretty fun.
 
 
-### Day 28: November
+### Day 28: November 30th
 
-**Today's Progress**: 
+**Today's Progress**: Learned more about DOM in more detail.
 
-**Thoughts**: 
+**Thoughts**: Did not know that DOM was related to APIs
 
 
-### Day 29: November
+### Day 29: December 1st, 2020
 
 **Today's Progress**: 
 
