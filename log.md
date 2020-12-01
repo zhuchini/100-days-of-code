@@ -210,12 +210,12 @@
 
 ### Day 29: December 1st, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Wrote logic for guessing number game on Udemy.
 
-**Thoughts**: 
+**Thoughts**: It's always good to write code that is understandable for other people.
 
 
-### Day 30: November
+### Day 30: 
 
 **Today's Progress**: 
 
