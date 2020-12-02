@@ -215,7 +215,14 @@
 **Thoughts**: It's always good to write code that is understandable for other people.
 
 
-### Day 30: 
+### Day 30: December 2nd
+
+**Today's Progress**: Completed challenge #1 of 'Guessing Game' of Udemy.
+
+**Thoughts**: I'm learning how to factor code from my friend.
+
+
+### Day 31: 
 
 **Today's Progress**: 
 
