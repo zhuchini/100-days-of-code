@@ -222,7 +222,14 @@
 **Thoughts**: I'm learning how to factor code from my friend.
 
 
-### Day 31: 
+### Day 31: December 3rd
+
+**Today's Progress**: Finalized Guess-My-Number project and finished the Modal Project.
+
+**Thoughts**: ClassList was really fun to learn.
+
+
+### Day 31: December 4th
 
 **Today's Progress**: 
 
