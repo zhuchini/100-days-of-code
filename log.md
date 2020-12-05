@@ -231,6 +231,13 @@
 
 ### Day 31: December 4th
 
+**Today's Progress**: Started writing the logic for the Pig Game project from the Udemy course.
+
+**Thoughts**: Today I learned is to stop being overwhelmed and divide your project into smaller tasks.
+
+
+### Day 32: December 
+
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:
