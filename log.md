@@ -13,9 +13,9 @@
 
 ### Day 36: December 10th
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the responsiveness of the portfolio challenge.
 
-**Thoughts**: 
+**Thoughts**: There must be an easier way in making responsiveness.
 
 
 ### Day 35: December 9th
