@@ -11,7 +11,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
-### Day 36: December 11th
+### Day 37: December 11th
 
 **Today's Progress**: Continued with lectures on JavaScript from Udemy.
 
