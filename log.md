@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 36: December 11th
+
+**Today's Progress**: Continued with lectures on JavaScript from Udemy.
+
+**Thoughts**: 15 minute naps are so nice.
+
+
 ### Day 36: December 10th
 
 **Today's Progress**: Worked on the responsiveness of the portfolio challenge.
