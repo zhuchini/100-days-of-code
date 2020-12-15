@@ -11,6 +11,20 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 39: December 15th
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+### Day 38: December 14th
+
+**Today's Progress**: Learnt about spread operator and REST pattern.
+
+**Thoughts**: Very interesting stuff, indeed.
+
+
 ### Day 37: December 11th
 
 **Today's Progress**: Continued with lectures on JavaScript from Udemy.
