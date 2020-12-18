@@ -11,11 +11,32 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 42: December 18th
+
+**Today's Progress**: Learned about the bind method.
+
+**Thoughts**: What is this method... So confusing.
+
+
+### Day 41: December 17th
+
+**Today's Progress**: Learned about functions and callback functions.
+
+**Thoughts**: Very cool stuff, yes.
+
+
+### Day 40: December 16th
+
+**Today's Progress**: Learned about working with strings.
+
+**Thoughts**: More like review today. Although still interesting.
+
+
 ### Day 39: December 15th
 
-**Today's Progress**: 
+**Today's Progress**: Learned about for-of loop and 'Enhanced Object Literals.'
 
-**Thoughts**: 
+**Thoughts**: Progress baby!
 
 
 ### Day 38: December 14th
