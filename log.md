@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 43: December 19th
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
 ### Day 42: December 18th
 
 **Today's Progress**: Learned about the bind method.
