@@ -11,7 +11,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
-### Day 43: December 19th
+### Day 43: 
 
 **Today's Progress**: 
 
