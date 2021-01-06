@@ -11,11 +11,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
-### Day 43: 
+### Day 43: January 6th, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Progressed on my personal portfolio.
 
-**Thoughts**:
+**Thoughts**: If I wanted to get hired, I'll need to complete my portfolio.
 
 
 ### Day 42: December 18th
