@@ -11,7 +11,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
-### Day 44: January 8th
+### Day 45: January 8th
 
 **Today's Progress**: Tried to fix nav links to change colour with JS.
 
