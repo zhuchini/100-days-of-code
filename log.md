@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 44: January 8th
+
+**Today's Progress**: Tried to fix nav links to change colour with JS.
+
+**Thoughts**: My code was working until I was refactoring the navbar and footer. The nav links don't change colour when you're on the page anymore
+
+
 ### Day 44: January 7th
 
 **Today's Progress**: Organized SCSS folders.
