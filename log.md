@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 44: January 7th
+
+**Today's Progress**: Organized SCSS folders.
+
+**Thoughts**: This will help me organize styles for media queries.
+
+
 ### Day 43: January 6th, 2021
 
 **Today's Progress**: Progressed on my personal portfolio.
