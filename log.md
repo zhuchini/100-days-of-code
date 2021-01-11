@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 46: January 11th
+
+**Today's Progress**: Continued with mobile media query and completed 'active-page' highlight.
+
+**Thoughts**: Learned about URL Params.
+
+
 ### Day 45: January 8th
 
 **Today's Progress**: Tried to fix nav links to change colour with JS.
