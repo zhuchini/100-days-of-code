@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 47: January 12th
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
 ### Day 46: January 11th
 
 **Today's Progress**: Continued with mobile media query and completed 'active-page' highlight.
