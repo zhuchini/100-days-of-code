@@ -13,9 +13,9 @@
 
 ### Day 47: January 12th
 
-**Today's Progress**: 
+**Today's Progress**: Tried implementing a menu bar icon on navbar.
 
-**Thoughts**:
+**Thoughts**: Did not have that much energy today.
 
 
 ### Day 46: January 11th
