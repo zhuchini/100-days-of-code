@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 48: January 13th
+
+**Today's Progress**: Worked on mobile screen of porfolio.
+
+**Thoughts**: Images were being stubborn.
+
+
 ### Day 47: January 12th
 
 **Today's Progress**: Tried implementing a menu bar icon on navbar.
