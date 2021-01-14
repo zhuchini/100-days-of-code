@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 49: January 14th
+
+**Today's Progress**: Fixed issues with images on mobile of my portfolio.
+
+**Thoughts**: Mobile and footers are so troublesome.
+
+
 ### Day 48: January 13th
 
 **Today's Progress**: Worked on mobile screen of porfolio.
