@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 50: January 19th
+
+**Today's Progress**: 90% Done with mobile version of Portfolio.
+
+**Thoughts**: I think I work better at night.
+
+
 ### Day 49: January 14th
 
 **Today's Progress**: Fixed issues with images on mobile of my portfolio.
