@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 52: January 21th
+
+**Today's Progress**: Finally done with mobile version.
+
+**Thoughts**: I need to stop pressuring myself.
+
+
 ### Day 51: January 20th
 
 **Today's Progress**: 98% Done with mobile version.
