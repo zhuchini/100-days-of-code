@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 51: January 20th
+
+**Today's Progress**: 98% Done with mobile version.
+
+**Thoughts**: I definitely feel more productive in the evening.
+
+
 ### Day 50: January 19th
 
 **Today's Progress**: 90% Done with mobile version of Portfolio.
