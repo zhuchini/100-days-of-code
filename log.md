@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 53: January 25th
+
+**Today's Progress**: Started with tablet version of portfolio.
+
+**Thoughts**: Not that much energy today. I should've exercised.
+
+
 ### Day 52: January 21th
 
 **Today's Progress**: Finally done with mobile version.
