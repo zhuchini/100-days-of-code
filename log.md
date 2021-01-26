@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 54: January 26th
+
+**Today's Progress**: Worked on tablet version of portfolio.
+
+**Thoughts**: iPad and iPad Pro dimensions are slightly different.
+
+
 ### Day 53: January 25th
 
 **Today's Progress**: Started with tablet version of portfolio.
