@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 55: January 27th
+
+**Today's Progress**: Finalized tablet version of the portfolio page.
+
+**Thoughts**: I hate media queries so much.
+
+
 ### Day 54: January 26th
 
 **Today's Progress**: Worked on tablet version of portfolio.
