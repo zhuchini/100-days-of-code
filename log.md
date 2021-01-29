@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 56: January 28th
+
+**Today's Progress**: 80% done with mobile projects page.
+
+**Thoughts**: I work better in a different environment.
+
+
 ### Day 55: January 27th
 
 **Today's Progress**: Finalized tablet version of the portfolio page.
