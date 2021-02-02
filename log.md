@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 59: February 1st, 2021
+
+**Today's Progress**: Almost done with portfolio.
+
+**Thoughts**: Need to implement a mobile menu animation.
+
+
 ### Day 58: January 30th
 
 **Today's Progress**: I think I'm finally done with portfolio.
