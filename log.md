@@ -11,12 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
-
 ### Day 61: February 3rd
 
 **Today's Progress**: Finalized portfolio challenge.
 
 **Thoughts**: What a journey...
+
+**Link(s) to work**: [Minimalist Portfolio Challenge](https://minimalist-portfolio-challenge.vercel.app/) 
 
 
 ### Day 60: February 2nd
