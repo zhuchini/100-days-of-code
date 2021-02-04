@@ -11,6 +11,14 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+
+### Day 61: February 3rd
+
+**Today's Progress**: Finalized portfolio challenge.
+
+**Thoughts**: What a journey...
+
+
 ### Day 60: February 2nd
 
 **Today's Progress**: First time implementing a mobile menu transition.
