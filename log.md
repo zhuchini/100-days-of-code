@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 62: February 4th
+
+**Today's Progress**: Started working on personal portfolio.
+
+**Thoughts**: Will have to figure out how to contact forms work.
+
+
 ### Day 61: February 3rd
 
 **Today's Progress**: Finalized portfolio challenge.
