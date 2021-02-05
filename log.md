@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 63: February 5th
+
+**Today's Progress**: Made more tweaks on personal porftolio.
+
+**Thoughts**: Why do things always change by itself...
+
+
 ### Day 62: February 4th
 
 **Today's Progress**: Started working on personal portfolio.
