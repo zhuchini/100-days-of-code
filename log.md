@@ -11,6 +11,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 64: February 6th
+
+**Today's Progress**: Deployed portfolio!
+
+**Thoughts**: Productive day today I might say.
+
+**Link(s) to work**: [Personal Portfolio](https://michaelzhu.dev) 
+
+
 ### Day 63: February 5th
 
 **Today's Progress**: Made more tweaks on personal porftolio.
