@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 65: February 8th
+
+**Today's Progress**: Started To-Do App.
+
+**Thoughts**: This will be fun.
+
+
 ### Day 64: February 6th
 
 **Today's Progress**: Deployed portfolio!
