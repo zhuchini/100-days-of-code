@@ -11,6 +11,14 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+
+### Day 67: February 10th
+
+**Today's Progress**: AddTodo functional, now to work on removing.
+
+**Thoughts**: My braing is getting confused.
+
+
 ### Day 66: February 9th
 
 **Today's Progress**: Implemented addTodo and checkTodo functions.
