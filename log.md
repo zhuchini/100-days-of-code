@@ -15,7 +15,7 @@
 
 **Today's Progress**: Changed checkmark classes to make it customizable.
 
-**Thoughts**: What a headache...
+**Thoughts**: Checkmark done.
 
 
 ### Day 67: February 10th
