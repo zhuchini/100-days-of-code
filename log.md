@@ -11,6 +11,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 68: February 11th
+
+**Today's Progress**: Changed checkmark classes to make it customizable.
+
+**Thoughts**: What a headache...
+
 
 ### Day 67: February 10th
 
