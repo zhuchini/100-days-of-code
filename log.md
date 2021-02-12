@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 69: February 12th
+
+**Today's Progress**: Status of checked changes with line-through.
+
+**Thoughts**: I have to remember to create new branches if I want to test stuff.
+
+
 ### Day 68: February 11th
 
 **Today's Progress**: Changed checkmark classes to make it customizable.
