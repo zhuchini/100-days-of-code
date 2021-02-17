@@ -11,6 +11,21 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+
+### Day 71: February 16th
+
+**Today's Progress**: Tried to implement "Clear Completed" button and countTask() functions.
+
+**Thoughts**: Could not focus today...
+
+
+### Day 70: February 15th
+
+**Today's Progress**: To-Do App is working properly.
+
+**Thoughts**: Everything should be fine.
+
+
 ### Day 69: February 12th
 
 **Today's Progress**: Status of checked changes with line-through.
