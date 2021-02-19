@@ -11,6 +11,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 72: February 18th
+
+**Today's Progress**: Fixed checkbox state.
+
+**Thoughts**: Friends are important.
+
 
 ### Day 71: February 16th
 
