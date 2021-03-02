@@ -11,6 +11,27 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 75: March 1st, 2021
+
+**Today's Progress**: Practiced using chaining methods and learned about Optional Chaining.
+
+**Thoughts**: I don't know when to use optional chaining...
+
+
+### Day 74: February 26th
+
+**Today's Progress**: Listened to JavaScript lectures on Udemy. Practiced using filter, map and reduce methods.
+
+**Thoughts**: I learned a lot!
+
+
+### Day 73: February 19th
+
+**Today's Progress**: Worked on counting remaining tasks and clearing completed tasks functions.
+
+**Thoughts**: Need to go back to fundamentals.
+
+
 ### Day 72: February 18th
 
 **Today's Progress**: Fixed checkbox state.
