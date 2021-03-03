@@ -11,6 +11,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 76: March 2ns
+
+**Today's Progress**: Finalized Bankist App
+
+**Thoughts**: Super productive day.
+
+**Link(s) to work**: [Bankist App](https://bankist-app-mocha.vercel.app/)
+
+
 ### Day 75: March 1st, 2021
 
 **Today's Progress**: Practiced using chaining methods and learned about Optional Chaining.
