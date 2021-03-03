@@ -11,7 +11,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
-### Day 76: March 2ns
+### Day 76: March 2nd
 
 **Today's Progress**: Finalized Bankist App
 
