@@ -11,6 +11,13 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) 
 -->
 
+### Day 77: March 3rd
+
+**Today's Progress**: Implemented a drag feature and "Clear Completed Todos' function for To-Do App.
+
+**Thoughts**: Drag and reorder was pretty simple.
+
+
 ### Day 76: March 2nd
 
 **Today's Progress**: Finalized Bankist App
